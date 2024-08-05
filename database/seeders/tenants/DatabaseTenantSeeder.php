@@ -17,10 +17,7 @@ class DatabaseTenantSeeder extends Seeder
             UserTableSeeder::class,
             LanguageTableSeeder::class,
             ConfigTableSeeder::class,
-            TrainingConfigTableSeeder::class,
             PermissionTableSeeder::class,
-            FundamentalTableSeeder::class,
-            PositionTableSeeder::class,
         ]);
     }
 }
